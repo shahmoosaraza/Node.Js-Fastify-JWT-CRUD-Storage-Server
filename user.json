@@ -1,0 +1,38 @@
+{
+  "2": {
+    "id": 2,
+    "email": "user1@example.com",
+    "password": "0b14d501a594442a01c6859541bcb3e8164d183d32937b851835442f69d5c94e",
+    "role": "user"
+  },
+  "3": {
+    "id": 3,
+    "email": "user2@example.com",
+    "password": "6cf615d5bcaac778352a8f1f3360d23f02f34ec182e259897fd6ce485d7870d4",
+    "role": "user"
+  },
+  "4": {
+    "id": 4,
+    "email": "user3@example.com",
+    "password": "5906ac361a137e2d286465cd6588ebb5ac3f5ae955001100bc41577c3d751764",
+    "role": "superuser"
+  },
+  "5": {
+    "id": 5,
+    "email": "admin2@example.com",
+    "password": "804da2dbc2b9d7331b319995b78feca56572aad00243db0f2b10beba4c224d29",
+    "role": "superuser"
+  },
+  "6": {
+    "id": 6,
+    "email": "user10@example.com",
+    "password": "aa4a9ea03fcac15b5fc63c949ac34e7b0fd17906716ac3b8e58c599cdc5a52f0",
+    "role": "user"
+  },
+  "7": {
+    "id": 7,
+    "email": "user6@example.com",
+    "password": "2c2748ebbdcec0b2c7aa2151e55d0d51d5f10c5db5954a552a3daa5dadf1b0a5",
+    "role": "superuser"
+  }
+}
